@@ -1,5 +1,5 @@
 {
-  "name": "react-native-button",
+  "name": "@metamask/react-native-button",
   "version": "2.3.0",
   "description": "A button for React apps",
   "main": "Button.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ide/react-native-button.git"
+    "url": "https://github.com/MetaMask/react-native-button.git"
   },
   "keywords": [
     "react-native",
@@ -18,9 +18,9 @@
   "author": "James Ide",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ide/react-native-button/issues"
+    "url": "https://github.com/MetaMask/react-native-button/issues"
   },
-  "homepage": "https://github.com/ide/react-native-button",
+  "homepage": "https://github.com/MetaMask/react-native-button",
   "peerDependencies": {
     "react-native": "*"
   },
